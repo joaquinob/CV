@@ -1,7 +1,8 @@
 .aboutMe {
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
+  padding: 15px;
 }
 
 .card {
@@ -10,4 +11,5 @@
 
 img {
   width: 150px;
+  border-radius: 40px;
 }/*# sourceMappingURL=about.css.map */

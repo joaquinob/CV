@@ -1,23 +1,20 @@
 import { CV } from '../CV/cv';
 import About from './about/About';
-import Contact from './contact/Contact';
 import Navbar from './navbar/Navbar';
 import Projects from './projects/Projects';
 import Skills from './skills/Skills';
 import Education from './education/Education';
 import Social from './social/Social';
 
-
 function App() {
   const { profile, education, experience, lenguages, habilities, images } = CV;
 
 
   return (
-    <div>
+    <div className='div'>
       <Navbar images={images} profile={profile}/>
       <About data={profile} />
-      <Education education={education}/>
-      <Contact contact={profile}/>
+      <Education education={education} images={images} />
       <Projects experience={experience}/>
       <Skills lenguages={lenguages} habilities={habilities}/>
       <Social social={profile}/>

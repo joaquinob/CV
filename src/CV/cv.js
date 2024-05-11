@@ -77,7 +77,17 @@ export const CV = {
     mongo: "https://img.icons8.com/color/48/mongodb.png",
     linkedin: "https://img.icons8.com/color/48/linkedin.png",
     github: "https://img.icons8.com/ios-glyphs/30/github.png",
-    cv: "https://img.icons8.com/avantgarde/100/parse-from-clipboard.png"
-  }
+    cv: "https://img.icons8.com/avantgarde/100/parse-from-clipboard.png",
+    less: "https://img.icons8.com/ios-glyphs/30/less-than.png",
+    more: "https://img.icons8.com/ios-glyphs/30/more-than.png"
+  },
+
+projects: {
+    apiRickMorty: '',
+    hansBuster: '',
+    cv: '',
+    barCastro: '',
+    proyectoApi: ''
+}
   
 };
