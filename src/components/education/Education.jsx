@@ -1,4 +1,4 @@
-function Education() {
+function Education({ education }) {
   return (
     <div>
       

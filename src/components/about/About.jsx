@@ -18,7 +18,6 @@ function About({data}) {
                     </a>
                 </p>
                 <p>📱 {data.phone}</p>
-                <p>💾<a href={data.gitHub}>GitHub</a></p>
             </div>
         </div>
     </div>
