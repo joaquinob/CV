@@ -9,12 +9,12 @@ import Social from './social/Social';
 
 
 function App() {
-  const { profile, education, experience, lenguages, habilities } = CV;
+  const { profile, education, experience, lenguages, habilities, images } = CV;
 
 
   return (
     <div>
-      <Navbar />
+      <Navbar images={images} profile={profile}/>
       <About data={profile} />
       <Education education={education}/>
       <Contact contact={profile}/>

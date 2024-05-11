@@ -1,0 +1,25 @@
+.navbar {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+
+.buttons {
+  display: inline-flex;
+}
+
+.btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 45px;
+  max-height: 45px;
+  margin: 0px 10px 0px 10px;
+  background-color: transparent;
+  border: none;
+}
+
+.img {
+  max-width: 40px;
+  max-height: 40px;
+}/*# sourceMappingURL=navbar.css.map */
