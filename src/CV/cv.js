@@ -12,23 +12,26 @@ export const CV = {
     gitHub: "https://github.com/joaquinob",
     linkedin: "https://www.linkedin.com/in/joaquinoblanco/",
     instagram: "instagram.com/joaquinortega_",
-    aboutMe: 'Mi motivación por la tecnologíay el aprendizaje continuo me impulsa a seguir creciendo en este campo, Además, como apasionado del fútbol, he desarrollado habilidades clave como trabajo en equipo, disciplina y liderazgo.',
+    aboutMe: 'Mi motivación por la tecnología y el aprendizaje continuo me impulsa a seguir creciendo en este campo, Además, como apasionado del fútbol, he desarrollado habilidades clave como trabajo en equipo, disciplina y liderazgo.',
   },
   education: [
     {
       name: "FSD bootcamp",
       date: "2024",
       where: "UpgradeHub",
+      web: "https://www.upgrade-hub.com/bootcamp/curso-full-stack-developer/?_gl=1*1cgoq4z*_up*MQ..&gclid=Cj0KCQjwjLGyBhCYARIsAPqTz199svpKmiNgTe5f32V1_V6p2IRHpTGmDd9BmbOzA2e7zwAikVnCuhMaAlsdEALw_wcB"
     },
     {
       name: "Técnico de imagen para el diagnóstico",
       date: "2020-23",
       where: "Universidad Alfonso X El Sabio",
+      web: "https://www.uax.com/titulaciones/tecnico-superior-imagen-diagnostico-y-medicina-nuclear-online-openuax?utm_source=GOO&utm_medium=PAID-SEARCH&utm_campaign=PAID-SEARCH_OPENUAX_CF11_TS-IMAG-DIAGNOST_CICLOS_SALUD_2024_ES_ADSMURAI_GOO_GENER_NA_PROS_NA_NA_Frase&utm_term=155453468097_ADSMURAI&utm_content=OPENUAX_CF11_TS-IMAG-DIAGNOST_CICLOS_GOO_NA_GENER_NA-Emocional&gad_source=1&gclid=Cj0KCQjwjLGyBhCYARIsAPqTz1-53rq3D_C04NJmWkcsFEovAd5bcfmLApxJ2sbbjqj1W05YB52J5UUaAtydEALw_wcB"
     },
     {
       name: "Bachillerato CCSS",
       date: "2017-19",
       where: "IES Arquitecto Ventura Rodríguez",
+      web: "https://iesventura.es"
     },
   ],
   experience: [
